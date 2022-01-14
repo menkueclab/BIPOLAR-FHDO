@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name "3RowConnectors")(type "KiCad")(uri "${KIPRJMOD}/3RowConnectors.kicad_sym")(options "")(descr ""))
   (lib (name "My_Amplifier_Operational")(type "KiCad")(uri "${KIPRJMOD}/My_Amplifier_Operational.kicad_sym")(options "")(descr ""))
+  (lib (name "My_Regulator_Switching")(type "KiCad")(uri "${KIPRJMOD}/My_Regulator_Switching.kicad_sym")(options "")(descr ""))
 )
