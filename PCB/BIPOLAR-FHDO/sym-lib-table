@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "3RowConnectors")(type "KiCad")(uri "${KIPRJMOD}/3RowConnectors.kicad_sym")(options "")(descr ""))
+)
